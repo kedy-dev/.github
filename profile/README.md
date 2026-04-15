@@ -1,6 +1,6 @@
 # Kedy on Github
 
-Welcome to the official Hugging Face organization for **Kedy** — building next-generation **Small Language Models (SLMs)**.
+Welcome to the official Github organization for **Kedy** — building next-generation **Small Language Models (SLMs)**.
 
 We focus on creating **efficient, high-performance open-source models** while also delivering **enterprise-grade AI solutions**.
 
