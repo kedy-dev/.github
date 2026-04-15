@@ -47,7 +47,7 @@ We focus on creating **efficient, high-performance open-source models** while al
 - 🌐 Website: https://kedy.dev  
 - 💬 Community: (coming soon)  
 - 📖 Documentation: (coming soon)  
-- 🤗 Hugging Face: https://github.com/kedy-dev
+- 🤗 Hugging Face: https://huggingface.co/kedytechnologies
 
 ---
 
